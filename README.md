@@ -1,1 +1,1 @@
-#ćwiczenia z kursu JS
+ćwiczenia z kursu JS
